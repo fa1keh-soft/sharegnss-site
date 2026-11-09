@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://fa1keh-soft.github.io/sharegnss-site/sitemap.xml
