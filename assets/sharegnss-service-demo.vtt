@@ -1,0 +1,25 @@
+WEBVTT
+
+00:00.000 --> 00:04.000
+Choose a laptop. Sharing is stopped.
+
+00:04.000 --> 00:12.000
+Select the already paired Windows laptop.
+Device names and addresses are obscured.
+
+00:12.000 --> 00:22.000
+Tap Start sharing. GNSS reception and the Bluetooth listener start.
+
+00:22.000 --> 00:26.000
+The laptop connects and receives five GGA messages.
+This indoor test transmits no-fix status.
+
+00:26.000 --> 00:32.200
+In a second session, expand the ShareGNSS notification.
+Tap its Stop sharing action.
+
+00:32.200 --> 00:34.400
+Other notifications and the screen transition are concealed.
+
+00:34.400 --> 00:40.000
+Return to ShareGNSS. Location is paused and sharing is off.
